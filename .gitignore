@@ -1,0 +1,29 @@
+# Back (Maven)
+back/target/
+*.class
+*.war
+*.log
+
+# Credenciales locales: nunca al repositorio
+back/src/main/resources/secrets.properties
+
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+
+# WebStorm
+.idea/
+*.iml
+
+# Front (Angular)
+front/node_modules/
+front/dist/
+front/.angular/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
