@@ -4,6 +4,7 @@
 ### Back (Java, Spring Boot), repositorio y Git
 - Sin `-` ni `_`: palabras pegadas o camelCase en paquetes, clases, tablas, columnas y rutas.
 - Los servicios llevan la palabra `Service`: `MateriaService`.
+- En los `.properties`, solo caracteres ASCII: sin tildes ni ñ, ni siquiera en comentarios.
 ### Front (Angular)
 Sigue completamente la guia oficial: https://angular.dev/style-guide
 - Archivos en minuscula con palabras separadas por guion: `TarjetaMateria` -> `tarjeta-materia.ts`.
