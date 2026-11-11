@@ -22,7 +22,7 @@ Sigue completamente la guia oficial: https://angular.dev/style-guide
 - IDE: Eclipse para el back y WebStorm para el front.
 
 ## Git
-- `main` protegida: todo entra por pull request con una aprobacion.
+- Se trabaja directamente sobre `main`.
 - Ramas sin guiones: `feature/inscripcion`, `fix/notaservice`.
 - Commits con Conventional Commits: `feat: ...`, `fix: ...`, `docs: ...`.
 - Merge commit al integrar; commits pequeños y diarios.
