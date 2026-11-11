@@ -1,11 +1,11 @@
 # Back (Maven)
-back/target/
+back/**/target/
 *.class
 *.war
 *.log
 
 # Credenciales locales: nunca al repositorio
-back/src/main/resources/secrets.properties
+back/**/secrets.properties
 
 # Eclipse
 .metadata/
